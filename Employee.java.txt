@@ -1,5 +1,6 @@
 Class Employee
 {
-
+String name= "Deepak";
+boolean = false;
 
 }
