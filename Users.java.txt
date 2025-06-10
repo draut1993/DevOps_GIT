@@ -1,3 +1,9 @@
-
-
+class 
+{
 String food= "Sattvic";
+public void method()
+{
+
+}
+}
+
