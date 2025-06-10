@@ -1,0 +1,8 @@
+class 
+{
+
+public void method()
+{
+
+}
+}
